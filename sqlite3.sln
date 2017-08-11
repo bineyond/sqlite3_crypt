@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sqlite3", "sqlite3\sqlite3.vcxproj", "{3C19D667-D4F7-4A48-B7B1-01CC214037F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DebugDll|x64 = DebugDll|x64
+		DebugDll|x86 = DebugDll|x86
+		DebugLib|x64 = DebugLib|x64
+		DebugLib|x86 = DebugLib|x86
+		ReleaseDll|x64 = ReleaseDll|x64
+		ReleaseDll|x86 = ReleaseDll|x86
+		ReleaseLib|x64 = ReleaseLib|x64
+		ReleaseLib|x86 = ReleaseLib|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C19D667-D4F7-4A48-B7B1-01CC214037F7}.DebugDll|x64.ActiveCfg = DebugDll|x64
+		{3C19D667-D4F7-4A48-B7B1-01CC214037F7}.DebugDll|x64.Build.0 = DebugDll|x64
+		{3C19D667-D4F7-4A48-B7B1-01CC214037F7}.DebugDll|x86.ActiveCfg = DebugDll|Win32
+		{3C19D667-D4F7-4A48-B7B1-01CC214037F7}.DebugDll|x86.Build.0 = DebugDll|Win32
+		{3C19D667-D4F7-4A48-B7B1-01CC214037F7}.DebugLib|x64.ActiveCfg = DebugLib|x64
+		{3C19D667-D4F7-4A48-B7B1-01CC214037F7}.DebugLib|x64.Build.0 = DebugLib|x64
+		{3C19D667-D4F7-4A48-B7B1-01CC214037F7}.DebugLib|x86.ActiveCfg = DebugLib|Win32
+		{3C19D667-D4F7-4A48-B7B1-01CC214037F7}.DebugLib|x86.Build.0 = DebugLib|Win32
+		{3C19D667-D4F7-4A48-B7B1-01CC214037F7}.ReleaseDll|x64.ActiveCfg = ReleaseDll|x64
+		{3C19D667-D4F7-4A48-B7B1-01CC214037F7}.ReleaseDll|x64.Build.0 = ReleaseDll|x64
+		{3C19D667-D4F7-4A48-B7B1-01CC214037F7}.ReleaseDll|x86.ActiveCfg = ReleaseDll|Win32
+		{3C19D667-D4F7-4A48-B7B1-01CC214037F7}.ReleaseDll|x86.Build.0 = ReleaseDll|Win32
+		{3C19D667-D4F7-4A48-B7B1-01CC214037F7}.ReleaseLib|x64.ActiveCfg = ReleaseLib|x64
+		{3C19D667-D4F7-4A48-B7B1-01CC214037F7}.ReleaseLib|x64.Build.0 = ReleaseLib|x64
+		{3C19D667-D4F7-4A48-B7B1-01CC214037F7}.ReleaseLib|x86.ActiveCfg = ReleaseLib|Win32
+		{3C19D667-D4F7-4A48-B7B1-01CC214037F7}.ReleaseLib|x86.Build.0 = ReleaseLib|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
